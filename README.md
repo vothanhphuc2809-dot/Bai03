@@ -5,8 +5,13 @@ Mở Visual Studio Code.
 <img width="297" height="78" alt="image" src="https://github.com/user-attachments/assets/0d6acd43-9f83-41ef-9a12-ff38b5bb67a7" />
 
 
-Viết chương trình tạo Web Server bằng module http của Node.js.
+Viết chương trình code.
+
+<img width="592" height="737" alt="image" src="https://github.com/user-attachments/assets/cf7f7305-f1a7-43c4-829e-dfec515d86f4" />
+
 Lưu file lại.
+
+
 2. Cách chạy chương trình
 Mở Terminal trong VS Code.
 Di chuyển vào thư mục BAI3 bằng lệnh:
